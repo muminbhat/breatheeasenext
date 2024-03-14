@@ -385,6 +385,9 @@ const BookAppointment = () => {
               </a>
             </div>
           </div>
+            <div>
+            <img src="./anothermain.png" className="w-[10rem] mt-2 rounded-md" alt="ananta"/>
+            </div>
           {/* End Icon Block */}
         </div>
       </div>
