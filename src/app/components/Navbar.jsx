@@ -81,7 +81,7 @@ const Navbar = () => {
         
             <li>
               <Link
-                href="/about"
+                href="#about"
                 className="font-md text-lg text-gray-600 hover:text-teal-600 dark:text-gray-400 dark:hover:text-gray-500"
               >
                 About

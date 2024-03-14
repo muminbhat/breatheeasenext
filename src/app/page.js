@@ -1,7 +1,8 @@
 import Image from "next/image";
-import { About, BookAppointment, Hero, Services } from "./components/HomePageComponents";
+import { About, Hero, Services } from "./components/HomePageComponents";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
+import BookAppointment from "./components/BookAppointment";
 
 export default function Home() {
   return (
