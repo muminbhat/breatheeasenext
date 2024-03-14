@@ -38,7 +38,7 @@ const BookAppointment = () => {
             // Contact created successfully
             setLoading(false);
             setErrorMessage(null);
-            console.log("Contact created successfully");
+            console.log("Appointment created successfully");
             setSubmitted(true);
             swal.fire({
               title: "Appointment Request Received",
