@@ -93,7 +93,7 @@ const BookAppointment = () => {
         Book Appointment
         </h1>
         <p className="mt-1 text-gray-600 dark:text-gray-400">
-          We'd love to talk about how we can help you.
+          We would love to talk about how we can help you.
         </p>
       </div>
       <div className="mt-12 grid items-center lg:grid-cols-2 gap-6 lg:gap-16">
@@ -260,7 +260,7 @@ const BookAppointment = () => {
               )}
             <div className="mt-3 text-center">
               <p className="text-sm text-gray-500">
-                We'll get back to you as soon as possible.
+                We will get back to you as soon as possible.
               </p>
             </div>
           </form>

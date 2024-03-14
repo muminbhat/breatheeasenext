@@ -19,7 +19,7 @@ const Navbar = () => {
           <img
             src="./logo.png"
             alt="Medical Equipments and Solutions"
-            className="h-16 w-16 rounded-full"
+            className="h-24 md:h-40 rounded-md"
           />
 
           <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">
