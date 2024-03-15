@@ -7,7 +7,7 @@ import BookAppointment from "./components/BookAppointment";
 export default function Home() {
   return (
    <>
-   <div className="max-w-[85rem] mx-auto px-5 sm:px-6 lg:px-8 ">
+   <div className="max-w-[85rem] mx-auto px-5 sm:px-6 lg:px-8">
    <Navbar />
    <Hero />
    <About />
