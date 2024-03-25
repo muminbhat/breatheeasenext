@@ -11,3 +11,6 @@ module.exports = {
   },
   plugins: [],
 };
+
+
+// Designed and developed by Mumin Bhat | www.muminbhat.com

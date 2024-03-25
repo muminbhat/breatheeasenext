@@ -3,6 +3,7 @@ import { About, Hero, Services } from "./components/HomePageComponents";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import BookAppointment from "./components/BookAppointment";
+import FeedBack from "./components/FeedBack";
 
 export default function Home() {
   return (
@@ -13,6 +14,7 @@ export default function Home() {
    <About />
    <Services />
    <BookAppointment />
+   <FeedBack />
    <Footer />
    </div>
    </>
